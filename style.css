@@ -1,0 +1,78 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(243, 237, 237);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+
+  li a:hover {
+    background-color: rgb(48, 236, 15);
+  }
+.login{
+    color: rgb(48, 236, 15);
+    background-color: rgb(243, 237, 237);
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 7%;
+    
+}
+.singup{
+    color: white;
+    background-color: rgb(48, 236, 15);
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 7%;
+}
+
+.reg{
+    color: white;
+    background-color: rgb(48, 236, 15);
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 7%;
+}
+#main{
+    margin: 0px 0px 60px 80px;
+
+}
+.img{
+    margin-right: 250px;
+}
+
+.block {
+  text-align: center;
+  float: left;
+  margin-right: 100px;
+}
